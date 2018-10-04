@@ -1,0 +1,134 @@
+HTTrack3.48-21+htsswf+htsjava launched on Sat, 27 Feb 2016 16:57:02 at http://www.eptc.church/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.eptc.church/ -O1 "F:\churchwebsiteinaguration\churchwebsite\allfiles\EPTC Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:57:03	Warning: 	Note: due to www.eptc.church remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:58:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 933119 got 317459): www.eptc.church/wp-content/uploads/2015/09/IMG-20150722-WA0031.jpg
+16:59:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 1306715 got 426657): www.eptc.church/wp-content/themes/realchurch-v1-06/images/default-header-background.jpg
+17:02:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 5068878 got 325857): www.eptc.church/wp-content/uploads/2015/12/8X12.jpg
+17:02:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 5023977 got 379057): www.eptc.church/wp-content/uploads/2015/12/8X12-TO-PRINT.jpg
+17:02:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 3087560 got 293657): www.eptc.church/wp-content/uploads/2015/12/DSC06075.jpg
+17:03:10	Warning: 	file not stored in cache due to bogus state (broken size, expected 3193324 got 295057): www.eptc.church/wp-content/uploads/2015/12/DSC06205.jpg
+17:03:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 4433971 got 331457): www.eptc.church/wp-content/uploads/2015/12/DSC01651.jpg
+17:03:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 4500547 got 317457): www.eptc.church/wp-content/uploads/2015/12/DSC01627.jpg
+17:04:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 4305776 got 391657): www.eptc.church/wp-content/uploads/2015/12/DSC00876.jpg
+17:04:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 4449860 got 334257): www.eptc.church/wp-content/uploads/2015/12/DSC00847.jpg
+17:04:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 4498534 got 341257): www.eptc.church/wp-content/uploads/2015/12/DSC00844.jpg
+17:05:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 369628 got 297859): www.eptc.church/wp-content/uploads/2015/12/ex1.jpg
+17:05:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 3245447 got 328657): www.eptc.church/wp-content/uploads/2015/12/DSC00936.jpg
+17:05:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 568503 got 328659): www.eptc.church/wp-content/uploads/2015/12/IMG_20151206_100651.jpg
+17:06:59	Warning: 	Retry after error -4 (Incorrect length (317459 Bytes, 933119 expected)) at link www.eptc.church/wp-content/uploads/2015/09/IMG-20150722-WA0031.jpg (from www.eptc.church/)
+17:07:00	Warning: 	Retry after error -4 (Incorrect length (426657 Bytes, 1306715 expected)) at link www.eptc.church/wp-content/themes/realchurch-v1-06/images/default-header-background.jpg (from www.eptc.church/wp-content/themes/realchurch-v1-06/style.css?ver=4.4.2)
+17:07:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 1306715 got 749657): www.eptc.church/wp-content/themes/realchurch-v1-06/images/default-header-background.jpg
+17:07:53	Error: 	"Not Found" (404) at link www.eptc.church/wp-content/themes/realchurch-v1-06/images/icon/light/carousel-nav-left.png (from www.eptc.church/wp-content/themes/realchurch-v1-06/style-custom.css?ver=4.4.2)
+17:07:53	Error: 	"Not Found" (404) at link www.eptc.church/wp-content/themes/realchurch-v1-06/images/icon/light/carousel-nav-right.png (from www.eptc.church/wp-content/themes/realchurch-v1-06/style-custom.css?ver=4.4.2)
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3881
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3881 to http://www.eptc.church/who-we-are-2/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3883
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3883 to http://www.eptc.church/timings/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3885
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3885 to http://www.eptc.church/office-bearers-for-the-biennium-2015-2017/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3887
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3887 to http://www.eptc.church/pastorate-committee/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3995
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3995 to http://www.eptc.church/church-office/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3892
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3892 to http://www.eptc.church/womens-fellowship/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3894
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3894 to http://www.eptc.church/youth-committee/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3896
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3896 to http://www.eptc.church/sunday-school/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=3898
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=3898 to http://www.eptc.church/activities/
+17:07:54	Warning: 	Moved Permanently for www.eptc.church/?p=4126
+17:07:54	Warning: 	File has moved from www.eptc.church/?p=4126 to http://www.eptc.church/youth-fellowship/
+17:07:54	Warning: 	Retry after error -4 (Incorrect length (325857 Bytes, 5068878 expected)) at link www.eptc.church/wp-content/uploads/2015/12/8X12.jpg (from www.eptc.church/youth-fellowship/)
+17:07:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 1811707 got 519052): www.eptc.church/wp-content/uploads/2016/02/newsletter.pdf
+17:07:59	Warning: 	Retry after error -4 (Incorrect length (379057 Bytes, 5023977 expected)) at link www.eptc.church/wp-content/uploads/2015/12/8X12-TO-PRINT.jpg (from www.eptc.church/youth-fellowship/)
+17:07:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 933119 got 690862): www.eptc.church/wp-content/uploads/2015/09/IMG-20150722-WA0031.jpg
+17:07:59	Warning: 	Retry after error -4 (Incorrect length (293657 Bytes, 3087560 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC06075.jpg (from www.eptc.church/youth-fellowship/)
+17:08:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 873335 got 591859): www.eptc.church/wp-content/uploads/2015/12/IMG_20151206_101624.jpg
+17:08:02	Warning: 	Retry after error -4 (Incorrect length (295057 Bytes, 3193324 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC06205.jpg (from www.eptc.church/youth-fellowship/)
+17:08:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 5023977 got 710456): www.eptc.church/wp-content/uploads/2015/12/8X12-TO-PRINT.jpg
+17:08:53	Warning: 	Retry after error -4 (Incorrect length (331457 Bytes, 4433971 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC01651.jpg (from www.eptc.church/youth-fellowship/)
+17:09:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 3087560 got 664256): www.eptc.church/wp-content/uploads/2015/12/DSC06075.jpg
+17:09:00	Warning: 	Retry after error -4 (Incorrect length (317457 Bytes, 4500547 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC01627.jpg (from www.eptc.church/youth-fellowship/)
+17:09:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 3193324 got 682456): www.eptc.church/wp-content/uploads/2015/12/DSC06205.jpg
+17:09:05	Warning: 	Retry after error -4 (Incorrect length (391657 Bytes, 4305776 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00876.jpg (from www.eptc.church/youth-fellowship/)
+17:09:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 5068878 got 830856): www.eptc.church/wp-content/uploads/2015/12/8X12.jpg
+17:09:15	Warning: 	Retry after error -4 (Incorrect length (334257 Bytes, 4449860 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00847.jpg (from www.eptc.church/youth-fellowship/)
+17:09:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 4500547 got 648856): www.eptc.church/wp-content/uploads/2015/12/DSC01627.jpg
+17:09:54	Warning: 	Retry after error -4 (Incorrect length (341257 Bytes, 4498534 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00844.jpg (from www.eptc.church/youth-fellowship/)
+17:09:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 4433971 got 713256): www.eptc.church/wp-content/uploads/2015/12/DSC01651.jpg
+17:09:54	Warning: 	Moved Permanently for www.eptc.church/?p=4124
+17:09:54	Warning: 	File has moved from www.eptc.church/?p=4124 to http://www.eptc.church/sunday-school-2/
+17:09:54	Warning: 	Retry after error -4 (Incorrect length (297859 Bytes, 369628 expected)) at link www.eptc.church/wp-content/uploads/2015/12/ex1.jpg (from www.eptc.church/sunday-school-2/)
+17:10:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 4449860 got 625056): www.eptc.church/wp-content/uploads/2015/12/DSC00847.jpg
+17:10:02	Warning: 	Retry after error -4 (Incorrect length (328657 Bytes, 3245447 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00936.jpg (from www.eptc.church/sunday-school-2/)
+17:10:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 4305776 got 765056): www.eptc.church/wp-content/uploads/2015/12/DSC00876.jpg
+17:10:05	Warning: 	Retry after error -4 (Incorrect length (328659 Bytes, 568503 expected)) at link www.eptc.church/wp-content/uploads/2015/12/IMG_20151206_100651.jpg (from www.eptc.church/sunday-school-2/)
+17:10:06	Warning: 	Moved Permanently for www.eptc.church/?p=4122
+17:10:06	Warning: 	File has moved from www.eptc.church/?p=4122 to http://www.eptc.church/general-events/
+17:10:06	Warning: 	Moved Permanently for www.eptc.church/?p=4120
+17:10:06	Warning: 	File has moved from www.eptc.church/?p=4120 to http://www.eptc.church/womens-fellowship-2/
+17:10:06	Warning: 	Moved Permanently for www.eptc.church/?p=4118
+17:10:06	Warning: 	File has moved from www.eptc.church/?p=4118 to http://www.eptc.church/pastorate-committee-2/
+17:10:06	Warning: 	Moved Permanently for www.eptc.church/?p=4116
+17:10:06	Warning: 	File has moved from www.eptc.church/?p=4116 to http://www.eptc.church/bajana-group/
+17:10:06	Warning: 	Moved Permanently for www.eptc.church/?p=4113
+17:10:06	Warning: 	File has moved from www.eptc.church/?p=4113 to http://www.eptc.church/snacks-stall/
+17:10:06	Warning: 	Retry after error -4 (Incorrect length (591859 Bytes, 873335 expected)) at link www.eptc.church/wp-content/uploads/2015/12/IMG_20151206_101624.jpg (from www.eptc.church/snacks-stall/)
+17:10:44	Warning: 	Moved Permanently for www.eptc.church/?p=3917
+17:10:44	Warning: 	File has moved from www.eptc.church/?p=3917 to http://www.eptc.church/news-letter/
+17:10:44	Warning: 	Retry after error -4 (Incorrect length (519052 Bytes, 1811707 expected)) at link www.eptc.church/wp-content/uploads/2016/02/newsletter.pdf (from www.eptc.church/news-letter/)
+17:10:52	Warning: 	Moved Permanently for www.eptc.church/?p=4097
+17:10:52	Warning: 	File has moved from www.eptc.church/?p=4097 to http://www.eptc.church/daily-reading/
+17:10:52	Warning: 	Moved Permanently for www.eptc.church/?p=3936
+17:10:52	Warning: 	File has moved from www.eptc.church/?p=3936 to http://www.eptc.church/contact-us/
+17:10:52	Warning: 	Retry after error -4 (Incorrect length (690862 Bytes, 933119 expected)) at link www.eptc.church/wp-content/uploads/2015/09/IMG-20150722-WA0031.jpg (from www.eptc.church/)
+17:10:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 4498534 got 723056): www.eptc.church/wp-content/uploads/2015/12/DSC00844.jpg
+17:10:55	Warning: 	Retry after error -4 (Incorrect length (749657 Bytes, 1306715 expected)) at link www.eptc.church/wp-content/themes/realchurch-v1-06/images/default-header-background.jpg (from www.eptc.church/wp-content/themes/realchurch-v1-06/style.css?ver=4.4.2)
+17:11:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 3245447 got 710456): www.eptc.church/wp-content/uploads/2015/12/DSC00936.jpg
+17:11:04	Warning: 	Retry after error -4 (Incorrect length (830856 Bytes, 5068878 expected)) at link www.eptc.church/wp-content/uploads/2015/12/8X12.jpg (from www.eptc.church/youth-fellowship/)
+17:11:32	Warning: 	Retry after error -4 (Incorrect length (710456 Bytes, 5023977 expected)) at link www.eptc.church/wp-content/uploads/2015/12/8X12-TO-PRINT.jpg (from www.eptc.church/youth-fellowship/)
+17:11:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 1811707 got 842046): www.eptc.church/wp-content/uploads/2016/02/newsletter.pdf
+17:11:37	Warning: 	Retry after error -4 (Incorrect length (664256 Bytes, 3087560 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC06075.jpg (from www.eptc.church/youth-fellowship/)
+17:11:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 5068878 got 1148255): www.eptc.church/wp-content/uploads/2015/12/8X12.jpg
+17:11:56	Warning: 	Retry after error -4 (Incorrect length (682456 Bytes, 3193324 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC06205.jpg (from www.eptc.church/youth-fellowship/)
+17:11:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 1306715 got 1125857): www.eptc.church/wp-content/themes/realchurch-v1-06/images/default-header-background.jpg
+17:11:56	Warning: 	Retry after error -4 (Incorrect length (713256 Bytes, 4433971 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC01651.jpg (from www.eptc.church/youth-fellowship/)
+17:12:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 5023977 got 1097855): www.eptc.church/wp-content/uploads/2015/12/8X12-TO-PRINT.jpg
+17:12:34	Warning: 	Retry after error -4 (Incorrect length (648856 Bytes, 4500547 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC01627.jpg (from www.eptc.church/youth-fellowship/)
+17:12:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 3087560 got 1023655): www.eptc.church/wp-content/uploads/2015/12/DSC06075.jpg
+17:12:35	Warning: 	Retry after error -4 (Incorrect length (765056 Bytes, 4305776 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00876.jpg (from www.eptc.church/youth-fellowship/)
+17:12:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 3193324 got 1016655): www.eptc.church/wp-content/uploads/2015/12/DSC06205.jpg
+17:12:50	Warning: 	Retry after error -4 (Incorrect length (625056 Bytes, 4449860 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00847.jpg (from www.eptc.church/youth-fellowship/)
+17:12:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 4433971 got 1051655): www.eptc.church/wp-content/uploads/2015/12/DSC01651.jpg
+17:12:51	Warning: 	Retry after error -4 (Incorrect length (723056 Bytes, 4498534 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00844.jpg (from www.eptc.church/youth-fellowship/)
+17:13:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 4305776 got 1060055): www.eptc.church/wp-content/uploads/2015/12/DSC00876.jpg
+17:13:23	Warning: 	Retry after error -4 (Incorrect length (710456 Bytes, 3245447 expected)) at link www.eptc.church/wp-content/uploads/2015/12/DSC00936.jpg (from www.eptc.church/sunday-school-2/)
+17:13:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 4500547 got 949455): www.eptc.church/wp-content/uploads/2015/12/DSC01627.jpg
+17:13:23	Warning: 	Retry after error -4 (Incorrect length (842046 Bytes, 1811707 expected)) at link www.eptc.church/wp-content/uploads/2016/02/newsletter.pdf (from www.eptc.church/news-letter/)
+17:13:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 4449860 got 956455): www.eptc.church/wp-content/uploads/2015/12/DSC00847.jpg
+17:13:43	Error: 	"Incorrect length (1125857 Bytes, 1306715 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/themes/realchurch-v1-06/images/default-header-background.jpg (from www.eptc.church/wp-content/themes/realchurch-v1-06/style.css?ver=4.4.2)
+17:13:43	Error: 	"Incorrect length (1148255 Bytes, 5068878 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/8X12.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (1097855 Bytes, 5023977 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/8X12-TO-PRINT.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (1023655 Bytes, 3087560 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC06075.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (1016655 Bytes, 3193324 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC06205.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (1051655 Bytes, 4433971 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC01651.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (949455 Bytes, 4500547 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC01627.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (1060055 Bytes, 4305776 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC00876.jpg (from www.eptc.church/youth-fellowship/)
+17:13:43	Error: 	"Incorrect length (956455 Bytes, 4449860 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC00847.jpg (from www.eptc.church/youth-fellowship/)
+17:13:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 4498534 got 1104855): www.eptc.church/wp-content/uploads/2015/12/DSC00844.jpg
+17:13:50	Error: 	"Incorrect length (1104855 Bytes, 4498534 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC00844.jpg (from www.eptc.church/youth-fellowship/)
+17:13:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 3245447 got 997055): www.eptc.church/wp-content/uploads/2015/12/DSC00936.jpg
+17:13:59	Error: 	"Incorrect length (997055 Bytes, 3245447 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2015/12/DSC00936.jpg (from www.eptc.church/sunday-school-2/)
+17:13:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 1811707 got 1137041): www.eptc.church/wp-content/uploads/2016/02/newsletter.pdf
+17:13:59	Error: 	"Incorrect length (1137041 Bytes, 1811707 expected)" (-4) after 2 retries at link www.eptc.church/wp-content/uploads/2016/02/newsletter.pdf (from www.eptc.church/news-letter/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 16 minutes 57 seconds : 315 links scanned, 252 files written (12281886 bytes overall) [25119207 bytes received at 24699 bytes/sec], 1.9 requests per connection
+(14 errors, 109 warnings, 0 messages)
